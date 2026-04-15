@@ -102,9 +102,9 @@ weather-app/
 ## 👤 Author / Autor
 
 **Alex Camarillo**  
-[@Maksumi Murakami](https://github.com/maksumi)
+[Maksumi](https://github.com/maksumi)
 
 ---
 
-> Built with 🤍 and Open-Meteo's free API — no keys, no limits.  
-> Construido con 🤍 y la API gratuita de Open-Meteo — sin keys, sin límites.
+> Built with 🤍 and Open-Meteo's free API.  
+> Construido con 🤍 y la API gratuita de Open-Meteo.
